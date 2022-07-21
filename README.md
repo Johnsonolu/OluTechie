@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OluTechie
 - 👀 I’m interested in front-end and back-end development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on front-end and back-end development 
 - 📫 How to reach me on my email johnsonoluwasegun19@gmail.com and also on twitter @_Mr_Olu
 
